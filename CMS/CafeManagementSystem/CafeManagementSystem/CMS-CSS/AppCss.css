@@ -1,0 +1,34 @@
+﻿ a:hover{
+    color:blue ;
+}
+a{
+    background-color:black ;
+}
+.Alignment{
+
+    position:absolute ;
+    top:130px ;
+    right:20px;
+}
+        
+.Alignment1{
+
+    position:absolute ;
+    top:130px ;
+    right:100px;
+}
+.divContent{
+
+    text-align:center ;
+    width:100% ;
+    height:100% ;
+}
+.ddlist{
+    color:white ;
+    border-color:black ;
+    font-size:medium ;
+    background-color:black ;
+}
+.ddlist:hover{
+    background-color:#111b40 ;
+}
